@@ -1,3 +1,6 @@
+![image](https://github.com/SeamusW/Phase-2-DSC-Project/assets/32468677/53544128-e77e-4368-ae5f-492f54a53bc4)
+
+
 # Phase-2-DSC-Project
 # Analysis of King County Real Estate
 
