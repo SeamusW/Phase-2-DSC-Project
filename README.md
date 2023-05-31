@@ -59,4 +59,14 @@ Meaning, this model accounts for approximately 77% of the variance in Price, and
 
 
 ## Repository Structure
+Daniel folder This folder houses Daniel's working documents.
 
+Seamus folder This folder houses Seamus's working documents.
+
+Exploring Movie Data Project - Slide Deck This file is a slide deck covering our analysis.
+
+King County Housing Data Exploratory Data Analysis - This file contains our data cleaning and wrangling, as well as all of our models and visualizations.
+
+Testing the Model - This file contains the predictive testing of our final model.
+    
+README.md This is the file you are reading now that gives an overview of our project
