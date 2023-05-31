@@ -17,7 +17,7 @@ There are several factors that contribute to home prices:
 <ul>
   <li>Square footage (outdoor/indoor, above/below ground), amount of bed/bathrooms, quality of the home, age of the home, price of the neighboring homes, etc.
   <li>Using various sources, we've provided several data-driven strategies to compare your home to what it's expected value should be.
-
+</ul>
 
 ## Data Understanding
 Our data sources included King County Housing Data, including information on over 32,000 homes sold in King County, Washington. We also used data from the US Census Bureau (via Point2Homes.com). Altogether, this included information on home price, sell date, square footage, beds/bathrooms, views, address, outdoor space, income, population, and much more.
