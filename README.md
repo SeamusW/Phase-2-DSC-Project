@@ -7,10 +7,16 @@
 *Seamus Walsh and Daniel Gieseke | June 2, 2023*
 
 ## Overview
-
+King County, Washington boasts a dynamic real estate market with a variety of homes.  With this project we took in data on homes sold within King County to understand which home features affect sale price.  We not only included data from homes sold in the county, but included data on population, income, and geographic distances from select county features.  Our aim with this project is to create a predictive model that will tell potential home buyers or home value assesors a predicted value of a home based on select features of a home.
 
 ## Project and Data Links
+<a href="https://github.com/SeamusW/Phase-2-DSC-Project/blob/main/King%20County%20Housing%20Data%20Exploratory%20Data%20Analysis.ipynb">Main Project File</a>
 
+<a href="TBD">Project Slide Deck</a>
+
+<a href="https://github.com/learn-co-curriculum/dsc-phase-2-project-v2-5/tree/main/data">Data Source: King County Housing Data</a>
+
+<a href="https://www.point2homes.com/US/Neighborhood/WA/King-County-Demographics.html">Data Source: US Census Bureau Data via Point2Homes.com</a>
 
 ## Business Understanding
 There are several factors that contribute to home prices:
@@ -66,7 +72,7 @@ There are a number of features that affect a home's sale price with several that
 </ul>
 
 ## Next Steps
-
+Potential next steps for this project could include sourcing additional data that is missing from our current data set and running additional tests with regression model.
 
 ## Repository Structure
 Daniel folder This folder houses Daniel's working documents.
