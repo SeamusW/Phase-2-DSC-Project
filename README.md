@@ -12,7 +12,7 @@ King County, Washington boasts a dynamic real estate market with a variety of ho
 ## Project and Data Links
 <a href="https://github.com/SeamusW/Phase-2-DSC-Project/blob/main/King%20County%20Housing%20Data%20Exploratory%20Data%20Analysis.ipynb">Main Project File</a>
 
-<a href="TBD">Project Slide Deck</a>
+<a href="https://github.com/SeamusW/Phase-2-DSC-Project/blob/main/King%20County%20Real%20Estate%20Project.pdf">Project Slide Deck</a>
 
 <a href="https://github.com/learn-co-curriculum/dsc-phase-2-project-v2-5/tree/main/data">Data Source: King County Housing Data</a>
 
@@ -77,14 +77,16 @@ There are a number of features that affect a home's sale price with several that
 Potential next steps for this project could include sourcing additional data that is missing from our current data set and running additional tests with regression model.
 
 ## Repository Structure
-Daniel folder This folder houses Daniel's working documents.
+<b>Daniel folder:</b> This folder houses Daniel's working documents.
 
-Seamus folder This folder houses Seamus's working documents.
+<b>Seamus folder:</b> This folder houses Seamus's working documents.
 
-Exploring Movie Data Project - Slide Deck This file is a slide deck covering our analysis.
+<b>Exploring Movie Data Project:</b> Slide Deck This file is a slide deck covering our analysis.
 
-King County Housing Data Exploratory Data Analysis - This file contains our data cleaning and wrangling, as well as all of our models and visualizations.
+<b>King County Housing Data Exploratory Data Analysis:</b> This file contains our data cleaning and wrangling, as well as all of our models and visualizations.
 
-Testing the Model - This file contains the predictive testing of our final model.
+<b>Testing the Model:</b> This file contains the predictive testing of our final model.
+
+<b>King County Real Estate Project:</b> This is a slide deck with our findings from our model.
     
-README.md This is the file you are reading now that gives an overview of our project
+<b>README.md:</b> This is the file you are reading now that gives an overview of our project
