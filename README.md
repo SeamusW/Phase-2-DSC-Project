@@ -81,6 +81,8 @@ Potential next steps for this project could include sourcing additional data tha
 
 <b>Seamus folder:</b> This folder houses Seamus's working documents.
 
+<b>data folder:</b> This folder houses our data sets
+
 <b>Exploring Movie Data Project:</b> Slide Deck This file is a slide deck covering our analysis.
 
 <b>King County Housing Data Exploratory Data Analysis:</b> This file contains our data cleaning and wrangling, as well as all of our models and visualizations.
