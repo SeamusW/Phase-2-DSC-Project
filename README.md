@@ -57,7 +57,7 @@ The final model included feature engineered variables based on the results we go
 ![image](https://github.com/SeamusW/Phase-2-DSC-Project/assets/32468677/b90a8bfe-cc62-41d6-bbde-2cde99768181)
 
     
-This final model increased our adjusted R-square to .755 and reduced the Mean Absolute Error to 187397.
+This final model increased our adjusted R-square to .755 and reduced the Mean Absolute Error to 197,248.
 Meaning, this model accounts for approximately 76% of the variance in Price, and can accurately predict a housing price within $197,248 dollars.
 
 ## Recommendations and Features to Consider
