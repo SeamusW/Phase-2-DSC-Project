@@ -34,7 +34,8 @@ For our analysis we sought to understand the best predictors of home prices base
     
 ## Baseline Model
 Our baseline model started with looking simply at the relationship between square footage and home price. We decided on square footage as our baseline model because it was the most highly correlated variable to price.
-![image](https://github.com/SeamusW/Phase-2-DSC-Project/assets/32468677/cd186857-51d3-4de7-ad3b-fc8eddf550a0)
+![image](https://github.com/SeamusW/Phase-2-DSC-Project/assets/32468677/eb37e592-8483-401e-a3b6-e9b141572445)
+
 
     
 ![image](https://github.com/SeamusW/Phase-2-DSC-Project/assets/32468677/10d410a2-8495-44be-965b-6feeca4bd121)
