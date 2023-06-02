@@ -57,8 +57,8 @@ The final model included feature engineered variables based on the results we go
 ![image](https://github.com/SeamusW/Phase-2-DSC-Project/assets/32468677/b90a8bfe-cc62-41d6-bbde-2cde99768181)
 
     
-This final model increased our adjusted R-square to .767 and reduced the Mean Absolute Error to 187397.
-Meaning, this model accounts for approximately 77% of the variance in Price, and can accurately predict a housing price within $187,397 dollars.
+This final model increased our adjusted R-square to .755 and reduced the Mean Absolute Error to 187397.
+Meaning, this model accounts for approximately 76% of the variance in Price, and can accurately predict a housing price within $197,248 dollars.
 
 ## Recommendations and Features to Consider
 There are a number of features that affect a home's sale price with several that are common sense including the square footage and condition, of a home.  A few key features we found interesting that we suggest home value assessors and potential buyers to consider are as follows.
@@ -69,8 +69,8 @@ There are a number of features that affect a home's sale price with several that
 <li>Whole Foods in Your Zip Code
 <ul><li>Our model shows that if a Whole Foods is in your home’s zip code, your home sale price increases.</ul>
 
-<li>Median Sale Price of Other Homes in Your Zip Code
-<ul><li>Our model shows that the higher the median sale price of other homes in your zip code affects your home price.  Unsurprisingly, as the sale price as other homes in your zip code increases, so does your home price.</ul>
+<li>Median Income of People in Your Zip Code
+<ul><li>Our model shows that the higher the median income of people in your zip code affects your home price.  Unsurprisingly, as the income of other people in your zip code increases, so does your home price.</ul>
 </ul>
 
 ## Next Steps
