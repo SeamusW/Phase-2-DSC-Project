@@ -53,8 +53,9 @@ This model increased our adjusted R-square to .466 and reduced the Mean Absolute
     
 ## Final Model
 The final model included feature engineered variables based on the results we got from our previous models. Specifically, we looked at interactions between zip codes and average home price, zip codes and average income, sqaure footage and condition of the home, as well as the distance from the fastest growing areas of King County.
-![image](https://github.com/SeamusW/Phase-2-DSC-Project/assets/32468677/e39c81a3-64a3-42d5-bce9-476b00c75c1d)
-![image](https://github.com/SeamusW/Phase-2-DSC-Project/assets/32468677/d845592b-6c24-433c-90f9-9af7c6e6e128)
+![image](https://github.com/SeamusW/Phase-2-DSC-Project/assets/32468677/27aaa0e9-7706-4c00-ab42-bf9c1bd266ce)
+![image](https://github.com/SeamusW/Phase-2-DSC-Project/assets/32468677/b90a8bfe-cc62-41d6-bbde-2cde99768181)
+
     
 This final model increased our adjusted R-square to .767 and reduced the Mean Absolute Error to 187397.
 Meaning, this model accounts for approximately 77% of the variance in Price, and can accurately predict a housing price within $187,397 dollars.
