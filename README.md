@@ -18,7 +18,7 @@ King County, Washington boasts a dynamic real estate market with a variety of ho
 
 <a href="https://www.point2homes.com/US/Neighborhood/WA/King-County-Demographics.html">Data Source: US Census Bureau Data via Point2Homes.com</a>
 
-<a href="https://www.point2homes.com/US/Neighborhood/WA/King-County-Demographics.html">Testing the Model</a>
+<a href="https://github.com/SeamusW/Phase-2-DSC-Project/blob/main/Testing%20the%20Model.ipynb">Testing the Model</a>
 
 ## Business Understanding
 There are several factors that contribute to home prices:
