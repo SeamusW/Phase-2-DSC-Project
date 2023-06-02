@@ -87,7 +87,7 @@ Potential next steps for this project could include sourcing additional data tha
 
 <b>King County Housing Data Exploratory Data Analysis:</b> This file contains our data cleaning and wrangling, as well as all of our models and visualizations.
 
-<b>Testing the Model:</b> This file contains the predictive testing of our final model.
+<b>Testing the Model:</b> This file contains the predictive testing of our final model, as well as testing our assumptions.
 
 <b>King County Real Estate Project:</b> This is a slide deck with our findings from our model.
     
